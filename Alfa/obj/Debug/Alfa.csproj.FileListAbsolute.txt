@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\chromedriver.exe
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\Alfa.dll
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\Alfa.pdb
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\NLog.dll
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\nunit.framework.dll
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\WebDriver.dll
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\WebDriver.Support.dll
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\NLog.xml
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\nunit.framework.xml
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\WebDriver.xml
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\bin\Debug\WebDriver.Support.xml
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\obj\Debug\Alfa.dll
+c:\users\user\documents\visual studio 2013\Projects\Alfa\Alfa\obj\Debug\Alfa.pdb
